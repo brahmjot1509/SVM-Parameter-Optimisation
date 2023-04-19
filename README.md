@@ -40,7 +40,7 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
 | 10     | 0.30    | poly   | 8.45  | 4.22  |
 
 
-# Convergence Graph 
+### Convergence Graph 
 
 ![image](https://user-images.githubusercontent.com/109303947/233127234-21d707dc-8ce7-452b-8817-0d7accee0c71.png)
 
