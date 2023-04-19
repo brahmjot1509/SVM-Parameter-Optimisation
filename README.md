@@ -26,3 +26,20 @@ X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September,
  UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients 
  
 ### Comparitive performance of Optimized-SVM with 10 samples
+	Sample	Best Accuracy	Best Kernel	Best Nu	Best Epsilon
+0	1	0.75	linear	2.31	2.50
+1	2	0.24	linear	6.44	1.71
+2	3	0.78	rbf	5.10	6.22
+3	4	0.79	rbf	3.30	9.50
+4	5	0.77	sigmoid	7.48	2.50
+5	6	0.70	linear	9.10	3.63
+6	7	0.77	sigmoid	5.96	1.30
+7	8	0.78	rbf	4.07	2.15
+8	9	0.27	linear	3.74	4.32
+9	10	0.30	poly	8.45	4.22
+
+
+# Convergence Graph 
+
+![image](https://user-images.githubusercontent.com/109303947/233127234-21d707dc-8ce7-452b-8817-0d7accee0c71.png)
+
